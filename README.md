@@ -1,5 +1,3 @@
-Zur Zeit ist noch mein test API Key hinterlegt
-
 Tiny PNG CLI Tool
 ==========
 ## Setup
@@ -26,3 +24,8 @@ User
 Enviorment Variables
 
 	$ TINIFY_KEY your key
+
+
+Use
+
+	$ tiny foldername imagename ...
